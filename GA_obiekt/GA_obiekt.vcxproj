@@ -23,6 +23,7 @@
     <ProjectGuid>{6380736D-BCDC-493C-964D-D6C8C77FF547}</ProjectGuid>
     <RootNamespace>GAobiekt</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>Genetic_Algorithm_For_function_Optimization</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
